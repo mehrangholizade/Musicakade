@@ -1,0 +1,14 @@
+.carousel-indicators button
+{
+    width: 10px !important;
+    height: 10px !important;
+    border-radius: 100%;
+}
+.card-img-top
+{
+    transition: width 1s;
+}
+.card-img-top:hover
+{
+    width: 105% !important;
+}
